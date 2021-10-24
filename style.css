@@ -2,4 +2,12 @@
 	width: 300px;
 	height: 300px;
 	border: 1px solid blue;
+	margin: 200px;
+	padding: 50px;
+	position: absolute;
+}
+
+h1{
+	font-size: 100px;
+	text-align: center;
 }

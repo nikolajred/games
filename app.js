@@ -16,7 +16,7 @@ context.fillStyle = "green";
 context.shadowBlur = 10;
 context.shadowColor = "brown";
 context.moveTo(250, 250);
-context.rect(50, 50, 100, 100);
+context.rect(50, 100, 100, 100);
 // context.rect(X, Y, width, height);
 context.fill();
 context.stroke();
